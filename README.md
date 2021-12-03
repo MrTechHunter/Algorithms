@@ -1,1 +1,3 @@
-"# Algorithms" 
+# Algorithms
+
+## Prim’s algorithm
